@@ -10,5 +10,6 @@ export abstract class PersonalCodeStrategy {
   abstract generate(
     gender: Gender,
     dateOfBirth: string,
+    countryCode: string,
   ): { personalCode: string };
 }
