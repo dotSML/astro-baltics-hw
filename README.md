@@ -2,6 +2,8 @@
 
 Homework task for Astro Baltics
 
+Time taken to complete the task: approximately 3.5 hours
+
 ## Installation
 
 ```bash
